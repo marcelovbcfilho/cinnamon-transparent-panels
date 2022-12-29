@@ -22,48 +22,48 @@ msgstr "%s已启用"
 msgid "Open the extension settings and customize your panels"
 msgstr "打开扩展设置并自定义您的面板"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->description
 msgid "Type of transparency"
 msgstr "透明度类型"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->tooltip
 msgid "Choose the type of transparency you want."
 msgstr "选择您想要的透明度类型。"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "Defined by theme"
 msgstr "由主题定义"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "Fully transparent"
 msgstr "完全透明"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "Semi-transparent"
 msgstr "半透明"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "With shadow"
 msgstr "带有阴影"
 
-#. transparent-panels@germanfr->settings-schema.json->opacify->description
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->opacify->description
 msgid "Remove theme transparency (experimental)"
 msgstr "移除主题透明度（实验性）"
 
-#. transparent-panels@germanfr->settings-schema.json->opacify->tooltip
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->opacify->tooltip
 msgid "Remove panel transparency when it's not transparent."
 msgstr "不透明时移除面板透明度。"
 
-#. transparent-panels@germanfr->metadata.json->name
+#. transparent-panels-red@marcelovbcfilho->metadata.json->name
 msgid "Transparent panels"
 msgstr "透明面板"
 
-#. transparent-panels@germanfr->metadata.json->description
+#. transparent-panels-red@marcelovbcfilho->metadata.json->description
 msgid "Transparentize your panels when there are no any maximized windows"
 msgstr "没有任何最大化的窗口时透明您的面板"

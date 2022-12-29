@@ -27,48 +27,48 @@ msgstr "Otvorite postavke proširenja i prilagodite svoje panele"
 msgid "Open settings"
 msgstr "Otvori postavke"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->description
 msgid "Type of transparency"
 msgstr "Vrsta prozirnosti"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->tooltip
 msgid "Choose the type of transparency you want."
 msgstr "Odaberite željenu vrstu prozirnosti."
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "Defined by theme"
 msgstr "Određena temom"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "Fully transparent"
 msgstr "Potpuna prozirnost"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "Semi-transparent"
 msgstr "Polovična prozirnost"
 
-#. transparent-panels@germanfr->settings-schema.json->transparency-
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "With shadow"
 msgstr "Sa sjenkama"
 
-#. transparent-panels@germanfr->settings-schema.json->opacify->description
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->opacify->description
 msgid "Remove theme transparency (experimental)"
 msgstr "Ukloni prozirnost teme (eksperimentalno)"
 
-#. transparent-panels@germanfr->settings-schema.json->opacify->tooltip
+#. transparent-panels-red@marcelovbcfilho->settings-schema.json->opacify->tooltip
 msgid "Remove panel transparency when it's not transparent."
 msgstr "Ukloni prozirnost panela kada nije proziran."
 
-#. transparent-panels@germanfr->metadata.json->name
+#. transparent-panels-red@marcelovbcfilho->metadata.json->name
 msgid "Transparent panels"
 msgstr "Prozirni paneli"
 
-#. transparent-panels@germanfr->metadata.json->description
+#. transparent-panels-red@marcelovbcfilho->metadata.json->description
 msgid "Transparentize your panels when there are no any maximized windows"
 msgstr "Paneli su prozirni kada nema uvećanih prozora."

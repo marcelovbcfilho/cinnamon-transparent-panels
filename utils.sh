@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GIST_URL='https://gist.githubusercontent.com/germanfr/6f48336523fa8a464362fb4249c63950/raw/utils.sh'
+GIST_URL='https://gist.githubusercontent.com/marcelovbcfilho/6f48336523fa8a464362fb4249c63950/raw/utils.sh'
 
 # ======================================
 #  Auto xlet discovery

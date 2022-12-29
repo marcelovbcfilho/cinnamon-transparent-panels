@@ -1,0 +1,21 @@
+{
+  "name": "Transparent panels",
+  "version": "4.0~20220727",
+  "description": "Transparentize your panels when there are no any maximized windows",
+  "url": "https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red",
+  "website": "https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red",
+  "cinnamon-version": [
+    "3.2",
+    "3.4",
+    "3.6",
+    "3.8",
+    "4.0",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.6"
+  ],
+  "uuid": "transparent-panels-red@marcelovbcfilho",
+  "author": "marcelovbcfilho",
+  "last-edited": 1660855584
+}

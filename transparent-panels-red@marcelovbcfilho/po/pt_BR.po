@@ -1,63 +1,72 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Marcelo Aof, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-28 20:37+0200\n"
-"PO-Revision-Date: 2019-10-21 21:16+0200\n"
+"POT-Creation-Date: 2021-03-02 23:18+0100\n"
+"PO-Revision-Date: 2021-09-24 01:22-0300\n"
+"Last-Translator: Marcelo Aof\n"
 "Language-Team: \n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
-"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: it\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: extension.js:166
+#: extension.js:172
 #, javascript-format
 msgid "%s enabled"
-msgstr "%s abilitato"
+msgstr "%s habilitado"
 
-#: extension.js:167
+#: extension.js:173
 msgid "Open the extension settings and customize your panels"
-msgstr "Apri le impostazioni dell'estensione e personalizza i tuoi pannelli"
+msgstr "Abra as configurações da extensão e personalize os seus painéis"
 
-#: extension.js:170
+#: extension.js:176
 msgid "Open settings"
-msgstr "Apri le Impostazioni"
+msgstr "Abrir as configurações"
+
+#. metadata.json->name
+msgid "Transparent panels"
+msgstr "Painéis transparentes"
+
+#. metadata.json->description
+msgid "Transparentize your panels when there are no any maximized windows"
+msgstr ""
+"Aplique transparência em seus painéis quando não houver janelas maximizadas"
 
 #. settings-schema.json->section-general->description
 msgid "General"
-msgstr "Generale"
+msgstr "Visão geral"
 
 #. settings-schema.json->transparency-type->description
 msgid "Type of transparency"
-msgstr "Tipo di trasparenza"
+msgstr "Tipo de transparência"
 
 #. settings-schema.json->transparency-type->options
 msgid "With shadow"
-msgstr "Con ombreggiatura"
+msgstr "Com sombra"
 
 #. settings-schema.json->transparency-type->options
 msgid "Fully transparent"
-msgstr "Completamente trasparente"
+msgstr "Totalmente transparente"
 
 #. settings-schema.json->transparency-type->options
 msgid "Semi-transparent"
-msgstr "Semi-trasparente"
+msgstr "Semitransparente"
 
 #. settings-schema.json->transparency-type->tooltip
 msgid "Choose the type of transparency you want."
-msgstr "Scegli il tipo di trasparenza che desideri."
+msgstr "Escolha o tipo de transparência que quiser."
 
 #. settings-schema.json->theme-defined->description
 msgid "Use current theme styles"
-msgstr "Usa gli stili del tema corrente"
+msgstr "Usar os estilos do tema atual"
 
 #. settings-schema.json->theme-defined->tooltip
 msgid ""
@@ -65,47 +74,40 @@ msgid ""
 "the extension presets. Use this in case the panels transparency is "
 "icorrectly set."
 msgstr ""
-"Solo per temi supportati. Lascia che il tema modifichi i pannelli anziché "
-"utilizzare i predefiniti dell'estensione. Utilizza questo nel caso in cui "
-"la trasparenza dei pannelli sia impostata correttamente."
+"Essa opção funciona apenas em alguns temas. Deixe o tema estilizar os "
+"painéis em vez de usar as predefinições dessa extensão. Marque essa opção "
+"caso a transparência do painel esteja sendo configurada incorretamente "
+"pela extensão."
 
 #. settings-schema.json->opacify->description
 msgid "Remove theme transparency (experimental)"
-msgstr "Rimuovi trasparenza tema (sperimentale)"
+msgstr "Remover a transparência do tema (experimental)"
 
 #. settings-schema.json->opacify->tooltip
 msgid "Remove panel transparency when it's not transparent."
-msgstr "Rimuove la trasparenza del pannello quando non è trasparente."
+msgstr ""
+"Remove a transparência do painel quando ele não estiver transparente."
 
 #. settings-schema.json->section-filters->description
 msgid "Filter panels"
-msgstr "Filtro pannelli"
+msgstr "Escolher os painéis"
 
 #. settings-schema.json->filters-description->description
 msgid "Select the panels that will be affected by this extension."
-msgstr "Seleziona i pannelli che saranno interessati da questa estensione."
+msgstr "Selecione os painéis que serão afetados por essa extensão."
 
 #. settings-schema.json->panel-top->description
 msgid "Top panel"
-msgstr "Pannello in alto"
+msgstr "Painel superior"
 
 #. settings-schema.json->panel-right->description
 msgid "Right panel"
-msgstr "Pannello a destra"
+msgstr "Painel direito"
 
 #. settings-schema.json->panel-bottom->description
 msgid "Bottom panel"
-msgstr "Pannello in basso"
+msgstr "Painel inferior"
 
 #. settings-schema.json->panel-left->description
 msgid "Left panel"
-msgstr "Pannello a sinistra"
-
-#. metadata.json->name
-msgid "Transparent panels"
-msgstr "Pannelli trasparenti"
-
-#. metadata.json->description
-msgid "Transparentize your panels when there are no any maximized windows"
-msgstr ""
-"Rendi trasparenti i tuoi pannelli quando non ci sono finestre ingrandite"
+msgstr "Painel esquerdo"
