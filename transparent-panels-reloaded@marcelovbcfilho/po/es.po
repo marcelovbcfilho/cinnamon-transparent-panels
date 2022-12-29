@@ -98,7 +98,7 @@ msgid "Left panel"
 msgstr "Panel izquierdo"
 
 #. metadata.json->name
-msgid "Transparent panels"
+msgid "Transparent panels reloaded"
 msgstr "Paneles transparentes"
 
 #. metadata.json->description

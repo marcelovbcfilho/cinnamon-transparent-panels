@@ -31,7 +31,7 @@ msgid "Open settings"
 msgstr ""
 
 #. metadata.json->name
-msgid "Transparent panels"
+msgid "Transparent panels reloaded"
 msgstr ""
 
 #. metadata.json->description

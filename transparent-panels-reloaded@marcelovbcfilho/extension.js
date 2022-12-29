@@ -1,5 +1,5 @@
 /*
-* Transparent panels - Cinnamon desktop extension
+* Transparent panels reloaded - Cinnamon desktop extension
 * Transparentize your panels when there are no any maximized windows
 * Copyright (C) 2016  Germán Franco Dorca
 *

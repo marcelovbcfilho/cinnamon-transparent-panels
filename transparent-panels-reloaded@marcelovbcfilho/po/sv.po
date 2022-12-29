@@ -1,4 +1,4 @@
-# Swedish translation for Transparent panels.
+# Swedish translation for Transparent panels reloaded.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Åke Engelbrektson <eson@svenskasprakfiler.se>, 2019.
@@ -102,7 +102,7 @@ msgid "Left panel"
 msgstr "Vänster panel"
 
 #. metadata.json->name
-msgid "Transparent panels"
+msgid "Transparent panels reloaded"
 msgstr "Transparenta paneler"
 
 #. metadata.json->description

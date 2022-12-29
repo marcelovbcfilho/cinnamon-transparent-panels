@@ -98,5 +98,5 @@ msgid "Transparentize your panels when there are no any maximized windows"
 msgstr "Rendre transparents vos tableaux de bords lorsqu'il n'y a pas de fenêtres agrandies."
 
 #. transparent-panels-reloaded@marcelovbcfilho->metadata.json->name
-msgid "Transparent panels"
+msgid "Transparent panels reloaded"
 msgstr "Tableaux de bords transparents"

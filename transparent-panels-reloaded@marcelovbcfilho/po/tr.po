@@ -102,7 +102,7 @@ msgid "Left panel"
 msgstr "Sol panel"
 
 #. metadata.json->name
-msgid "Transparent panels"
+msgid "Transparent panels reloaded"
 msgstr "Saydam paneller"
 
 #. metadata.json->description

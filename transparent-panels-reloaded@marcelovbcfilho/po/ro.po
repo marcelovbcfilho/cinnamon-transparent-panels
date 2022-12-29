@@ -102,7 +102,7 @@ msgid "Left panel"
 msgstr "Panou stânga"
 
 #. metadata.json->name
-msgid "Transparent panels"
+msgid "Transparent panels reloaded"
 msgstr "Panouri transparente"
 
 #. metadata.json->description

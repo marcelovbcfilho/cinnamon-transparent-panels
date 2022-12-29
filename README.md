@@ -12,7 +12,7 @@ Make your panels transparent (or not) and change their color as you wish.
 
 ## Installation
 ### Cinnamon Spices
-Download it [from here][spices] or search for _"Transparent panels"_ in your Cinnamon extension settings.
+Download it [from here][spices] or search for _"Transparent panels reloaded"_ in your Cinnamon extension settings.
 ### From source
 To download the source and install it, execute the following as a normal user (you will need [git](https://git-scm.com/)).
 ``` shell
@@ -49,7 +49,7 @@ This extension is free software and it's licensed under GPL3.
 You should have received an unobfuscated copy of the source code. If you don't, you can get it on [https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded][repo]
 
 ```
-Transparent panels - Cinnamon desktop extension
+Transparent panels reloaded - Cinnamon desktop extension
 Transparentize your panels when there are no any maximized windows
 Copyright (C) 2016  Germán Franco Dorca
 

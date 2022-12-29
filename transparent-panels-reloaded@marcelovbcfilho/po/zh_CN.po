@@ -61,7 +61,7 @@ msgid "Remove panel transparency when it's not transparent."
 msgstr "不透明时移除面板透明度。"
 
 #. transparent-panels-reloaded@marcelovbcfilho->metadata.json->name
-msgid "Transparent panels"
+msgid "Transparent panels reloaded"
 msgstr "透明面板"
 
 #. transparent-panels-reloaded@marcelovbcfilho->metadata.json->description
