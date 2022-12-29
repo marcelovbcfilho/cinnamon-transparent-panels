@@ -15,10 +15,6 @@ assignees: ''
 
 **Describe the bug**
 
-
-
 **Steps to reproduce**
-
-
 
 **Other information**

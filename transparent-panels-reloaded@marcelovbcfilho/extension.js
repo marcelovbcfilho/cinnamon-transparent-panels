@@ -130,7 +130,7 @@ MyExtension.prototype = {
 
         if (this.use_custom_panel_color) {
             // colorchoose is a string in this format: rgb(255, 255, 255)
-            let rgb_custom_panel_color =  this.custom_panel_color.replace('rgb(', '').replace(')', '').split(',')
+            let rgb_custom_panel_color = this.custom_panel_color.replace('rgb(', '').replace(')', '').split(',')
             color.red = rgb_custom_panel_color[0];
             color.green = rgb_custom_panel_color[1];
             color.blue = rgb_custom_panel_color[2];

@@ -5,10 +5,6 @@
 
 **Issue**
 
-
-
 **Steps to reproduce**
-
-
 
 **Other information**
