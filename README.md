@@ -1,4 +1,4 @@
-# [Transparent panels red - A Cinnamon extension][repo]
+# [Transparent panels reloaded - A Cinnamon extension][repo]
 
 Make your panels transparent (or not) and change their color as you wish.
 
@@ -16,16 +16,16 @@ Download it [from here][spices] or search for _"Transparent panels"_ in your Cin
 ### From source
 To download the source and install it, execute the following as a normal user (you will need [git](https://git-scm.com/)).
 ``` shell
-$ git clone https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red.git
-$ cd cinnamon-transparent-panels-red/ && ./utils.sh install
+$ git clone https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded.git
+$ cd cinnamon-transparent-panels-reloaded/ && ./utils.sh install
 ```
-The above will download the source from Github and it will be copied to your `~/.local/share/cinnamon/extensions/` folder. If you don't have git installed, you can download a zip [from here](https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red/archive/master.zip), extract it and run `$ ./utils.sh install`.
+The above will download the source from Github and it will be copied to your `~/.local/share/cinnamon/extensions/` folder. If you don't have git installed, you can download a zip [from here](https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded/archive/master.zip), extract it and run `$ ./utils.sh install`.
 
 ## Changelog
-See the list of changes on Github:  [https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red/commits/master][commits]
+See the list of changes on Github:  [https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded/commits/master][commits]
 
 ## Issues
-If you find any bug you can file an issue in the Github project page: [https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red/issues][issues]
+If you find any bug you can file an issue in the Github project page: [https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded/issues][issues]
 
 Make sure you have an updated version of Cinnamon and try to explain the more detailed you can what the problem is (don't just say _"it doesn't work"_ because that doesn't help at all).
 
@@ -46,7 +46,7 @@ First, make sure you have the latest version of Cinnamon (or at least not a preh
 
 ## License
 This extension is free software and it's licensed under GPL3.
-You should have received an unobfuscated copy of the source code. If you don't, you can get it on [https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red][repo]
+You should have received an unobfuscated copy of the source code. If you don't, you can get it on [https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded][repo]
 
 ```
 Transparent panels - Cinnamon desktop extension
@@ -67,8 +67,8 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
-[repo]: https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red
-[commits]: https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red/commits/master
-[issues]: https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red/issues
-[releases]: https://github.com/marcelovbcfilho/cinnamon-transparent-panels-red/releases
+[repo]: https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded
+[commits]: https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded/commits/master
+[issues]: https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded/issues
+[releases]: https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded/releases
 [spices]: https://cinnamon-spices.linuxmint.com/extensions/view/42

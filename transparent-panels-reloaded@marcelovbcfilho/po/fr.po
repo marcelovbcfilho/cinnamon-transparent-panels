@@ -26,77 +26,77 @@ msgstr "Ouvrir les paramètres de l'extension et personnaliser vos tableaux de b
 msgid "Open settings"
 msgstr "Ouvrir les paramètres"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->panel-left->description
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->panel-left->description
 msgid "Left panel"
 msgstr "Tableau de bord à gauche"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->panel-
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->panel-
 #. bottom->description
 msgid "Bottom panel"
 msgstr "Tableau de bord en bas"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->section2->description
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->section2->description
 msgid "Filter panels"
 msgstr "Filtrer les tableaux de bord"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->panel-right->description
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->panel-right->description
 msgid "Right panel"
 msgstr "Tableau de bord à droite"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->panel-top->description
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->panel-top->description
 msgid "Top panel"
 msgstr "Tableau de bord en haut"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->opacify->description
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->opacify->description
 msgid "Remove theme transparency (experimental)"
 msgstr "Retirer la transparence du thème (expérimental)"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->opacify->tooltip
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->opacify->tooltip
 msgid "Remove panel transparency when it's not transparent."
 msgstr "Retirer la transparence du tableau de bord lorsqu'il n'est pas transparent."
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->transparency-
 #. type->description
 msgid "Type of transparency"
 msgstr "Type de transparence"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->transparency-
 #. type->tooltip
 msgid "Choose the type of transparency you want."
 msgstr "Choisissez le type de transparence désiré."
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "Defined by theme"
 msgstr "Défini par le thème"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "Fully transparent"
 msgstr "Entièrement transparent"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "Semi-transparent"
 msgstr "Semi-transparent"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->transparency-
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->transparency-
 #. type->options
 msgid "With shadow"
 msgstr "Avec de l'ombre"
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->label2->description
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->label2->description
 msgid "Select the panels that will be affected by this extension."
 msgstr "Choisissez les tableaux de bords qui seront affectés par cette extension."
 
-#. transparent-panels-red@marcelovbcfilho->settings-schema.json->section1->description
+#. transparent-panels-reloaded@marcelovbcfilho->settings-schema.json->section1->description
 msgid "General"
 msgstr "Général"
 
-#. transparent-panels-red@marcelovbcfilho->metadata.json->description
+#. transparent-panels-reloaded@marcelovbcfilho->metadata.json->description
 msgid "Transparentize your panels when there are no any maximized windows"
 msgstr "Rendre transparents vos tableaux de bords lorsqu'il n'y a pas de fenêtres agrandies."
 
-#. transparent-panels-red@marcelovbcfilho->metadata.json->name
+#. transparent-panels-reloaded@marcelovbcfilho->metadata.json->name
 msgid "Transparent panels"
 msgstr "Tableaux de bords transparents"

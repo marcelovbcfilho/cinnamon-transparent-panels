@@ -17,7 +17,7 @@
 * along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-const UUID = "transparent-panels-red@marcelovbcfilho";
+const UUID = "transparent-panels-reloaded@marcelovbcfilho";
 
 const Gettext = imports.gettext;
 const GLib = imports.gi.GLib;
@@ -189,7 +189,7 @@ MyExtension.prototype = {
         let source = new MessageTray.Source(this.meta.name);
         let params = {
             icon: new St.Icon({
-                icon_name: "transparent-panels-red",
+                icon_name: "transparent-panels-reloaded",
                 icon_type: St.IconType.FULLCOLOR,
                 icon_size: source.ICON_SIZE
             })

@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: transparent-panels-red@marcelovbcfilho\n"
+"Project-Id-Version: transparent-panels-reloaded@marcelovbcfilho\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-28 20:37+0200\n"
 "PO-Revision-Date: 2019-12-27 09:35+0100\n"
