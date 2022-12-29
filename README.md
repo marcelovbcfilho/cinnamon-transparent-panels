@@ -4,7 +4,7 @@ Make your panels transparent (or not) and change their color as you wish.
 
 ![screenshot_2022_12_28_21_58_03.png](screenshot_2022_12_28_21_58_03.png)[repo]
 
-![screenshot_2022_12_28_21_56_54.png](screenshot_2022_12_28_21_56_54.png)[repo]
+![screenshot.png](screenshot.png)[repo]
 
 ![screenshot_2022_12_28_21_58_18.png](screenshot_2022_12_28_21_58_18.png)[repo]
 
