@@ -106,5 +106,5 @@ msgid "Transparent panels reloaded"
 msgstr "Läpinäkyvät paneelit"
 
 #. metadata.json->description
-msgid "Transparentize your panels when there are no any maximized windows"
+msgid "Make your panels transparent (or not) and change their color as you wish"
 msgstr "Paneelien läpinäkyvyys, kun ikkunoita ei ole maksimoitu"

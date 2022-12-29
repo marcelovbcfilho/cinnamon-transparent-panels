@@ -102,7 +102,7 @@ msgid "Transparent panels reloaded"
 msgstr "Paneles transparentes"
 
 #. metadata.json->description
-msgid "Transparentize your panels when there are no any maximized windows"
+msgid "Make your panels transparent (or not) and change their color as you wish"
 msgstr "Haz tus paneles transparentes cuando no hay ninguna ventana maximizada"
 
 #~ msgid "Defined by theme"

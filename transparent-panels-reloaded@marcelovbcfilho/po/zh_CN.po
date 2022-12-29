@@ -65,5 +65,5 @@ msgid "Transparent panels reloaded"
 msgstr "透明面板"
 
 #. transparent-panels-reloaded@marcelovbcfilho->metadata.json->description
-msgid "Transparentize your panels when there are no any maximized windows"
+msgid "Make your panels transparent (or not) and change their color as you wish"
 msgstr "没有任何最大化的窗口时透明您的面板"

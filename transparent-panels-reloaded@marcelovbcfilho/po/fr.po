@@ -94,7 +94,7 @@ msgid "General"
 msgstr "Général"
 
 #. transparent-panels-reloaded@marcelovbcfilho->metadata.json->description
-msgid "Transparentize your panels when there are no any maximized windows"
+msgid "Make your panels transparent (or not) and change their color as you wish"
 msgstr "Rendre transparents vos tableaux de bords lorsqu'il n'y a pas de fenêtres agrandies."
 
 #. transparent-panels-reloaded@marcelovbcfilho->metadata.json->name

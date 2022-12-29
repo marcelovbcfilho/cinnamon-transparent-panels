@@ -36,7 +36,7 @@ msgid "Transparent panels reloaded"
 msgstr "Áttetsző panel"
 
 #. metadata.json->description
-msgid "Transparentize your panels when there are no any maximized windows"
+msgid "Make your panels transparent (or not) and change their color as you wish"
 msgstr "Átlátszóvá teheti a paneleket, ha nincsenek maximalizált ablakok"
 
 #. settings-schema.json->section-general->description

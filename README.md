@@ -80,8 +80,8 @@ on [https://github.com/marcelovbcfilho/cinnamon-transparent-panels-reloaded][rep
 
 ```
 Transparent panels reloaded - Cinnamon desktop extension
-Transparentize your panels when there are no any maximized windows
-Copyright (C) 2016  Germán Franco Dorca
+Make your panels transparent (or not) and change their color as you wish
+Copyright (C) 2022 Marcelo Vilas Boas Correa Filho
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
