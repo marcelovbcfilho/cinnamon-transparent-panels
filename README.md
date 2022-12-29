@@ -53,6 +53,8 @@ Contributions are welcome, also in form of translations. Please, submit pull req
 spices repository, which is only a distribution channel (not even a mirror). What is in there is automatically generated
 and overwritten.
 
+If you have any questions about the extensions api you can find some help [HERE](https://github.com/linuxmint/Cinnamon/wiki/%5Bdevelopment%5D-extensions)
+
 ## FAQ
 
 #### 1) Is it possible to keep transparency always?
